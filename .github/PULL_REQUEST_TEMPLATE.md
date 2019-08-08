@@ -1,5 +1,3 @@
-# Description
-
 Describe your changes in a **short** and **concise** way.
 
 Remember:
@@ -8,6 +6,10 @@ Remember:
 
  - To explain your **changes**, use **commit messages**.
 
+---
+
 This resolves #0.
+
+---
 
 Please review, @somebody.
