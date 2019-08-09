@@ -22,7 +22,7 @@ Formulate goals as **declarative sentences** that describe a desired state. Do *
 
 # Scope
 
-Achieving the goals above involves:
+Achieving the goals above will involve:
 
  - Reworking X.
  - Implementing Y.
